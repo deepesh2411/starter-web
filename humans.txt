@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    deepesh ranjan  deepesh.ranjan@git.training
 
 # THANKS
 
