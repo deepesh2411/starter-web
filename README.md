@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ##copyright
 copyright github training
+
+##new update
+putting some update
